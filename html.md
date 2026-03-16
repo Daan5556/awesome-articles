@@ -1,2 +1,3 @@
 - [justfuckingusehtml.com](https://justfuckingusehtml.com/)
 - [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
