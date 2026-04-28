@@ -1,1 +1,2 @@
 - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
+- [Staring at walls to improve focus and productivity](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
