@@ -1,1 +1,2 @@
 - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
+- [humiliating iis servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
