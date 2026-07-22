@@ -2,3 +2,4 @@
 - [Staring at walls to improve focus and productivity](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
 - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
+- [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
