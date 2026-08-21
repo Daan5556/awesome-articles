@@ -2,4 +2,5 @@
 - [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
-- [On the On the &lt;dl&gt;](https://benmyers.dev/blog/on-the-dl/)
+- [On the &lt;dl&gt;](https://benmyers.dev/blog/on-the-dl/)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
